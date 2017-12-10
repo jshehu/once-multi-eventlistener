@@ -1,0 +1,24 @@
+{
+  "name": "once-multi-eventlistener",
+  "version": "1.0.0",
+  "description": "Listen on multiple events only for once until one of them is emitted.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshehu/once-multi-eventlistener.git"
+  },
+  "author": "Jeton Shehu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jshehu/once-multi-eventlistener/issues"
+  },
+  "homepage": "https://github.com/jshehu/once-multi-eventlistener#readme",
+  "keywords": [
+    "event",
+    "listener",
+    "eventlistener"
+  ]
+}
