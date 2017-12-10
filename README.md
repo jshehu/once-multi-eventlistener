@@ -22,7 +22,7 @@ const onceMultiEventListener(emitter, {
 ### Example
 ```js
 const net = require('net');
-const onceMultiEventListener = require('./index');
+const onceMultiEventListener = require('once-multi-eventlistener');
 
 const socket = new net.Socket();
 /**
