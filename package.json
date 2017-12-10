@@ -1,6 +1,6 @@
 {
   "name": "once-multi-eventlistener",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Listen on multiple events only for once until one of them is emitted.",
   "main": "index.js",
   "scripts": {
