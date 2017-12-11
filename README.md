@@ -7,7 +7,7 @@ npm i -S once-multi-eventlistener
 ```
 ### Usage
 ```js
-const onceMultiEventListener(emitter, {
+onceMultiEventListener(emitter, {
     event1: (a, b) => {
         console.log('event1 emitted.');
     },
